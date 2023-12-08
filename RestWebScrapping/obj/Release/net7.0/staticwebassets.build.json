@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "uXJSU4eeWRbVqZl0RDkZSMFdpc8YZXOdkTxgZwxvdoA=",
+  "Source": "RestWebScrapping",
+  "BasePath": "_content/RestWebScrapping",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
