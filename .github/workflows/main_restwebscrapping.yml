@@ -54,4 +54,4 @@ jobs:
           app-name: 'RestWebScrapping'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C7537E709B3D455099F3FD9128E0B8BB }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CD87B41611D7450184BADE438A82CF2F }}
